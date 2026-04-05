@@ -20,4 +20,4 @@ step 1: Clone or download this repository step 2: Open the project folder step 3
 
 📬 Contact Me
 
-👩‍💻 Name: Chathurya Singuru 📧 Email: lasyac.06@gmail.com
+👩‍💻 Name: Lasya C 📧 Email: lasyac.06@gmail.com
